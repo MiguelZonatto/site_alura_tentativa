@@ -1,5 +1,5 @@
 body {
-background-color: brown;
+
 }
 p {
     text-align: center; 
@@ -21,6 +21,32 @@ b {
 }
 
 #cerveja {
- width: 100%;
- height: 30%;
+ width: 30%;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #bcbcbc
+    padding: 20px;
+}
+
+.principal {
+    background-color: brown;
+    padding: 30px;
+}
+
+h2 {
+    text-align: center;
+}
+ul {
+    display: incline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.viking {
+    width: 30%;
 }
