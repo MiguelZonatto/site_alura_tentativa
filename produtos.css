@@ -1,0 +1,30 @@
+header{
+    background-color: hsl(10, 100%, 25%);
+    text-align: center;
+}
+
+nav li{
+        display: inline;
+    margin: 0 0 0 15px;
+
+}
+
+nav a{
+        text-transform: uppercase;
+        color: black;
+        font-weight: bold;
+        font-size: 22px;
+        text-decoration: none;
+
+
+}
+
+h1 {
+        text-align: center;
+}
+
+.corte-de-cria {
+       width: 25%;
+       height: 25%;
+       flex: 2;
+}
